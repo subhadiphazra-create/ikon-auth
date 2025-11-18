@@ -67,6 +67,7 @@ def list_items():
 ```
 
 
+
 ## 🔐 Generating Access Tokens Programmatically
 
 ```python
@@ -76,6 +77,7 @@ provider = OAuthProvider()
 token = provider.get_token()
 print(token)  # Bearer <access_token>
 ```
+### ‼️FOR ALL TYPE OF FRAMEWORK USAGE PLEASE CHECK THE EXAMPLE ‼️
 
 ---
 
@@ -149,5 +151,6 @@ Please open an issue or submit a pull request on GitHub.
 
 
 ---
+
 
 
