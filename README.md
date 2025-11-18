@@ -143,9 +143,10 @@ Please open an issue or submit a pull request on GitHub.
 
 | Resource          | Link                                                                                         |
 | ----------------- | -------------------------------------------------------------------------------------------- |
-| PyPI Package      | [https://pypi.org/project/ikon-auth](https://pypi.org/project/ikon-auth)                     |
-| Issues            | [https://github.com/your-org/ikon-auth/issues](https://github.com/your-org/ikon-auth/issues) |
-| GitHub Repository | [https://github.com/your-org/ikon-auth](https://github.com/your-org/ikon-auth)               |
+| PyPI Package      | [https://pypi.org/project/ikon-auth](https://pypi.org/project/ikon-auth/)                     |
+| Issues            | [https://github.com/subhadiphazra-create/ikon-auth/issues](https://github.com/subhadiphazra-create/ikon-auth/issues) |
+| GitHub Repository | [https://github.com/subhadiphazra-create/ikon-auth](https://github.com/subhadiphazra-create/ikon-auth)               |
 
 
 ---
+
