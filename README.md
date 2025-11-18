@@ -1,4 +1,3 @@
-````markdown
 # ikon-auth
 
 **ikon-auth** is a reusable authentication and authorization library designed for FastAPI microservices.  
@@ -67,7 +66,6 @@ def list_items():
     return {"items": []}
 ```
 
----
 
 ## 🔐 Generating Access Tokens Programmatically
 
@@ -148,5 +146,6 @@ Please open an issue or submit a pull request on GitHub.
 | PyPI Package      | [https://pypi.org/project/ikon-auth](https://pypi.org/project/ikon-auth)                     |
 | Issues            | [https://github.com/your-org/ikon-auth/issues](https://github.com/your-org/ikon-auth/issues) |
 | GitHub Repository | [https://github.com/your-org/ikon-auth](https://github.com/your-org/ikon-auth)               |
+
 
 ---
