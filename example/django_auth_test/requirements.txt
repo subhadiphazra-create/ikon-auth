@@ -1,0 +1,4 @@
+Django
+djangorestframework
+python-dotenv
+ikon-auth>=0.1.5

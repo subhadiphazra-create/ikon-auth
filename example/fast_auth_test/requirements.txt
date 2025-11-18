@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+ikon-auth>=0.1.5
+python-dotenv
